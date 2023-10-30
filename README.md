@@ -5,5 +5,5 @@
  Вакансия Golang developer
 
 
-    Yandex  
+      [Yandex link](https://github.com/iddanilov/interview/blob/main/yandex/README.md)
 
