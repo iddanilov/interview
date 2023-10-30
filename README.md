@@ -1,9 +1,9 @@
 # interview
 
- Проект для подготовки к интервью в разных компаниях.
+Поделюсь информацией по подготовке к собеседованию в разные компании.
 
- Вакансия Golang developer
+Вакансия: Golang developer
 
-
-      [Yandex link](https://github.com/iddanilov/interview/blob/main/yandex/README.md)
+Компании:
+*  [Yandex](yandex/README.md)
 
